@@ -1,4 +1,8 @@
-# C++ Primer 中文版
+---
+layout: default
+title: C++ Primer 中文版
+---
+# C++ Primer 中文版 第4版
 ## Chapter 1
 ### 1.1
 主函数
