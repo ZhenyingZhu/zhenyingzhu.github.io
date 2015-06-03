@@ -1,8 +1,8 @@
----
+ï»¿---
 layout: default
-title: ¼ÆËã»úÍøÂç£º×Ô¶¥ÏòÏÂ·½·¨(µÚËÄ°æ)
+title: è®¡ç®—æœºç½‘ç»œï¼šè‡ªé¡¶å‘ä¸‹æ–¹æ³•(ç¬¬å››ç‰ˆ)
 ---
-# ¼ÆËã»úÍøÂç£º×Ô¶¥ÏòÏÂ·½·¨(µÚËÄ°æ)
+# è®¡ç®—æœºç½‘ç»œï¼šè‡ªé¡¶å‘ä¸‹æ–¹æ³•(ç¬¬å››ç‰ˆ)
 ## Chapter 1
 
 ### 1.1
@@ -226,7 +226,7 @@ DNS request and response packet:
 |Questions(variable number of questions)| | Name, type fields for a query |
 |Answers(variable number of resource records)| | RRs in response to query |
 |Authority(variable number of resource records)| | Records for authoritative servers |
-|Additional information(variable number of resource records)| | Additional ¡°helpful¡± info that may be used |
+|Additional information(variable number of resource records)| | Additional â€œhelpfulâ€ info that may be used |
 
 
 Identification used to pair the request and response. 
