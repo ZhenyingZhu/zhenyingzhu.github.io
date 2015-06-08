@@ -36,8 +36,8 @@ iostream
 * istream：cin。输入值与存入的变量类型不符合时, 或读入`ctrl+D`时, 返回的值为假, 可用于while的中。  
 * ostream：cout,  cerror, clog。  
 * iostream库能所有处理内置类型的输出。  
-```
 
+```
 #include <iosteam>
 int main()
 {
@@ -55,7 +55,8 @@ Manipulator操作符：`endl`, 换行并刷新缓冲区(buff)。
 作用域(Scope)操作符：取namespace中的对象。  
 
 对于出错的情况：
+
 ```
     std::cerr << "Error" << std::endl;
-
+```
 
